@@ -1,2 +1,6 @@
+ITEC 1357 - CompTIA A+ Essentials (Core 1)
+ITEC 1457 - CompTIA A+ Application (Core 2)
+SDEV 1022 - HTML/CSS Basics
+TESD 1050 - Job Seeking Skills
 SDEV 2110 - JavaScript Programming
 ITEC 1025 - Microsoft Networking Fundamentals
