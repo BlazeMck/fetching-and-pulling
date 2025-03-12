@@ -1,1 +1,3 @@
 SDEV 2110 - JavaScript Fundamentals
+ITEC 1357 - CompTIA A+ Essentials (Core 1)
+ITEC 1457 - CompTIA A+ Application (Core 2)
