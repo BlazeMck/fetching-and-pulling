@@ -1,1 +1,2 @@
-SDEV 2110 - JavaScript Fundamentals
+SDEV 2110 - JavaScript Programming
+ITEC 1025 - Microsoft Networking Fundamentals
