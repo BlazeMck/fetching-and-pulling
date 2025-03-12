@@ -1,1 +1,3 @@
 SDEV 1090 - Version Control Fundamentals
+SDEV 2410 - C# Programming I
+SDEV 2420 - C# Programming II
